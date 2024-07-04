@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+    background-color: ;
+
+}
+
+#carletonimg {
+    border: solid black 5px;
+    width: 500px;
+}
+
+/*About Section*/
+
+#AboutFlex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.AboutFlexChild {}
